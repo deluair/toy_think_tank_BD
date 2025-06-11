@@ -1,3 +1,0 @@
-pandas>=2.0
-plotly>=5.20
-PyYAML>=6.0
