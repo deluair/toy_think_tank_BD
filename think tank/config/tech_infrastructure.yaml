@@ -1,0 +1,30 @@
+Cloud Computing:
+  provider: 'AWS/Azure/Google Cloud'
+  monthly_cost_usd: 15000
+  components: ['Compute instances', 'Storage', 'AI/ML services', 'Data pipeline']
+  justification: 'Scalable infrastructure for 100 AI agents'
+AI/ML Platforms:
+  provider: 'OpenAI API, Anthropic, Custom Models'
+  monthly_cost_usd: 25000
+  components: ['LLM access', 'Custom model training', 'Fine-tuning', 'API calls']
+  justification: 'Core AI capabilities for specialized agents'
+Data Sources:
+  provider: 'Multiple vendors'
+  monthly_cost_usd: 8000
+  components: ['Economic databases', 'News feeds', 'Government data', 'Research portals']
+  justification: 'Comprehensive data access for analysis'
+Security & Compliance:
+  provider: 'Enterprise security solutions'
+  monthly_cost_usd: 5000
+  components: ['Encryption', 'Access control', 'Monitoring', 'Backup']
+  justification: 'Protecting sensitive policy research'
+Development Tools:
+  provider: 'Software licenses'
+  monthly_cost_usd: 3000
+  components: ['IDEs', 'Version control', 'Testing tools', 'Monitoring']
+  justification: 'AI agent development and maintenance'
+Communication & Collaboration:
+  provider: 'Multiple platforms'
+  monthly_cost_usd: 2000
+  components: ['Video conferencing', 'Document sharing', 'Project management']
+  justification: 'Stakeholder engagement and collaboration'

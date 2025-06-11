@@ -1,0 +1,39 @@
+Data Collection Workflow:
+  lead_agents: 'Data Collection Agents (25)'
+  supporting_agents: 'Quality Assurance Agents (2)'
+  frequency: 'Continuous (24/7)'
+  output: 'Structured datasets, real-time feeds'
+  human_oversight: 'Data Manager (2 hours daily)'
+  key_sources: ['Government databases', 'News sources', 'Economic indicators', 'Social media']
+
+Economic Analysis Workflow:
+  lead_agents: 'Economic Analysis Agents (15)'
+  supporting_agents: 'Data Collection Agents (5), Synthesis Agents (1)'
+  frequency: 'Daily analysis, Weekly reports'
+  output: 'Economic forecasts, policy impact models'
+  human_oversight: 'Research Coordinator (8 hours weekly)'
+  key_sources: ['Central bank data', 'Trade statistics', 'Global economic indicators']
+
+Climate Analysis Workflow:
+  lead_agents: 'Climate & Environment Agents (12)'
+  supporting_agents: 'Data Collection Agents (3), Infrastructure Agents (2)'
+  frequency: 'Daily monitoring, Monthly reports'
+  output: 'Climate risk assessments, adaptation strategies'
+  human_oversight: 'Technical Lead (6 hours weekly)'
+  key_sources: ['Weather data', 'Satellite imagery', 'Climate models']
+
+Policy Synthesis Workflow:
+  lead_agents: 'Synthesis & Coordination Agents (5)'
+  supporting_agents: 'All specialized agents (as needed)'
+  frequency: 'Weekly briefs, Monthly comprehensive reports'
+  output: 'Integrated policy recommendations'
+  human_oversight: 'Executive Director (12 hours weekly)'
+  key_sources: ['All agent outputs', 'Stakeholder feedback', 'Expert consultations']
+
+Quality Control Workflow:
+  lead_agents: 'Quality Assurance Agents (5)'
+  supporting_agents: 'Communication Agents (2)'
+  frequency: 'Continuous validation'
+  output: 'Fact-checked reports, bias assessments'
+  human_oversight: 'Research Coordinator (10 hours weekly)'
+  key_sources: ['Primary source verification', 'Cross-referencing', 'Expert validation']

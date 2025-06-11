@@ -1,0 +1,30 @@
+Policy Briefs:
+  frequency: 'Weekly'
+  annual_target: 52
+  length_pages: '4-6'
+  ai_agents_involved: 15
+  human_review_hours: 8
+Comprehensive Reports:
+  frequency: 'Monthly'
+  annual_target: 12
+  length_pages: '30-50'
+  ai_agents_involved: 40
+  human_review_hours: 40
+Rapid Analysis:
+  frequency: 'As needed'
+  annual_target: 100
+  length_pages: '2-3'
+  ai_agents_involved: 8
+  human_review_hours: 3
+Annual Outlook:
+  frequency: 'Annually'
+  annual_target: 1
+  length_pages: '100-150'
+  ai_agents_involved: 80
+  human_review_hours: 200
+Sectoral Deep Dives:
+  frequency: 'Quarterly'
+  annual_target: 4
+  length_pages: '60-80'
+  ai_agents_involved: 60
+  human_review_hours: 120

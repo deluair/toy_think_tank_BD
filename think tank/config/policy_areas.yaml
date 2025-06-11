@@ -1,0 +1,109 @@
+Economic Development:
+  priority_level: 9
+  current_challenges:
+    - 'Diversifying beyond RMG'
+    - 'Financial sector vulnerabilities'
+    - 'Export growth slowdown'
+  ai_applications:
+    - 'Economic forecasting'
+    - 'Trade analysis'
+    - 'Market intelligence'
+    - 'Investment screening'
+  complexity: 8
+  data_availability: 7
+
+Youth Employment:
+  priority_level: 10
+  current_challenges:
+    - 'Skills gap'
+    - '16.8% youth unemployment'
+    - 'Education-employment mismatch'
+  ai_applications:
+    - 'Skills assessment'
+    - 'Job matching'
+    - 'Training program optimization'
+    - 'Labor market analysis'
+  complexity: 7
+  data_availability: 6
+
+Digital Transformation:
+  priority_level: 9
+  current_challenges:
+    - 'Fragmented digital systems'
+    - 'Lack of interoperability'
+    - 'Cybersecurity'
+  ai_applications:
+    - 'Digital infrastructure planning'
+    - 'Cybersecurity monitoring'
+    - 'Service optimization'
+  complexity: 8
+  data_availability: 8
+
+Climate Adaptation:
+  priority_level: 10
+  current_challenges:
+    - 'Sea level rise'
+    - 'Cyclone intensification'
+    - 'Agricultural salinization'
+  ai_applications:
+    - 'Climate modeling'
+    - 'Disaster prediction'
+    - 'Adaptation planning'
+    - 'Resource allocation'
+  complexity: 9
+  data_availability: 5
+
+Governance Reform:
+  priority_level: 8
+  current_challenges:
+    - 'Democratic transition'
+    - 'Institutional strengthening'
+    - 'Transparency'
+  ai_applications:
+    - 'Policy impact analysis'
+    - 'Transparency monitoring'
+    - 'Public consultation analysis'
+  complexity: 9
+  data_availability: 4
+
+Financial Sector:
+  priority_level: 8
+  current_challenges:
+    - 'Banking vulnerabilities'
+    - 'Financial inclusion'
+    - 'Regulatory compliance'
+  ai_applications:
+    - 'Risk assessment'
+    - 'Fraud detection'
+    - 'Regulatory monitoring'
+    - 'Credit scoring'
+  complexity: 8
+  data_availability: 7
+
+Regional Relations:
+  priority_level: 7
+  current_challenges:
+    - 'India relations'
+    - 'Rohingya crisis'
+    - 'Border management'
+  ai_applications:
+    - 'Diplomatic analysis'
+    - 'Migration monitoring'
+    - 'Border security'
+    - 'Regional trade analysis'
+  complexity: 9
+  data_availability: 5
+
+Infrastructure Development:
+  priority_level: 8
+  current_challenges:
+    - 'Urban planning'
+    - 'Transport optimization'
+    - 'Energy grid modernization'
+  ai_applications:
+    - 'Smart city planning'
+    - 'Traffic optimization'
+    - 'Energy management'
+    - 'Predictive maintenance'
+  complexity: 7
+  data_availability: 6

@@ -1,0 +1,34 @@
+Government Officials:
+  engagement_frequency: 'Weekly briefings'
+  primary_outputs: 'Policy briefs, rapid analysis'
+  communication_channels: 'Direct meetings, secure portal'
+  ai_agents_involved: 'All synthesis and communication agents'
+  human_lead: 'Executive Director'
+
+International Partners:
+  engagement_frequency: 'Monthly reports, Quarterly meetings'
+  primary_outputs: 'Comprehensive reports, research collaboration'
+  communication_channels: 'Digital platforms, conferences'
+  ai_agents_involved: 'International Relations agents, Economic Analysis agents'
+  human_lead: 'Executive Director, Research Coordinator'
+
+Academic Community:
+  engagement_frequency: 'Quarterly papers, Annual conferences'
+  primary_outputs: 'Research papers, methodology reports'
+  communication_channels: 'Academic journals, conferences'
+  ai_agents_involved: 'All specialized agents'
+  human_lead: 'Technical Lead, Research Coordinator'
+
+Private Sector:
+  engagement_frequency: 'Monthly analysis, Ad-hoc consulting'
+  primary_outputs: 'Market analysis, regulatory updates'
+  communication_channels: 'Business networks, consulting engagements'
+  ai_agents_involved: 'Economic Analysis agents, Governance agents'
+  human_lead: 'Executive Director, Communications Specialist'
+
+Civil Society:
+  engagement_frequency: 'Monthly public reports, Social media'
+  primary_outputs: 'Public policy briefs, infographics'
+  communication_channels: 'Website, social media, public events'
+  ai_agents_involved: 'Communication agents, Social Policy agents'
+  human_lead: 'Communications Specialist'

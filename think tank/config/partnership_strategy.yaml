@@ -1,0 +1,20 @@
+Government Agencies:
+  target_partners: ["Prime Minister's Office", 'Planning Commission', 'Ministry of Finance', 'ICT Division']
+  collaboration_type: 'Data sharing, policy consultation'
+  value_proposition: 'Evidence-based policy recommendations'
+International Organizations:
+  target_partners: ['World Bank', 'ADB', 'UNDP', 'IMF']
+  collaboration_type: 'Research collaboration, funding'
+  value_proposition: 'Advanced analytics capabilities'
+Universities:
+  target_partners: ['University of Dhaka', 'BUET', 'BRAC University', 'NSU']
+  collaboration_type: 'Research partnerships, talent pipeline'
+  value_proposition: 'Cutting-edge research methods'
+Think Tanks:
+  target_partners: ['CPD', 'BIISS', 'PRI', 'BIDS']
+  collaboration_type: 'Joint research, knowledge sharing'
+  value_proposition: 'Complementary expertise'
+Technology Partners:
+  target_partners: ['OpenAI', 'Microsoft', 'Google', 'Local tech companies']
+  collaboration_type: 'Technology access, innovation'
+  value_proposition: 'Pioneer AI applications in policy'

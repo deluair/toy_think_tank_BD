@@ -1,0 +1,25 @@
+Executive Director:
+  count: 1
+  annual_salary_usd: 120000
+  responsibilities: ['Strategic oversight', 'Stakeholder relations', 'Quality control', 'Public representation']
+  required_skills: ['Policy expertise', 'AI literacy', 'Leadership', 'Communication']
+Technical Lead:
+  count: 1
+  annual_salary_usd: 100000
+  responsibilities: ['AI agent development', 'System architecture', 'Technical oversight', 'Innovation']
+  required_skills: ['AI/ML expertise', 'Software development', 'System design', 'Problem solving']
+Research Coordinator:
+  count: 1
+  annual_salary_usd: 70000
+  responsibilities: ['Research planning', 'Quality assurance', 'Methodology oversight', 'Output coordination']
+  required_skills: ['Research methods', 'Data analysis', 'Policy knowledge', 'Project management']
+Data Manager:
+  count: 1
+  annual_salary_usd: 80000
+  responsibilities: ['Data governance', 'Source management', 'Pipeline maintenance', 'Quality control']
+  required_skills: ['Data engineering', 'Database management', 'Data quality', 'Automation']
+Communications Specialist:
+  count: 1
+  annual_salary_usd: 60000
+  responsibilities: ['Report writing', 'Stakeholder communication', 'Public engagement', 'Dissemination']
+  required_skills: ['Writing', 'Communication', 'Digital marketing', 'Stakeholder management']
