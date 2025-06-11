@@ -10,15 +10,18 @@ The content was generated with large-language models and refined manually.
 ├── outputs/
 │   ├── data/         # Generated CSV datasets
 │   └── figures/      # Generated PNG charts
-├── src/
-│   ├── data_generation/ # Modules for generating CSV data
-│   │   ├── policy_and_agents.py
-│   │   ├── ops_framework.py
-│   │   └── workflows_and_metrics.py
-│   ├── plotting/        # Modules for generating charts
-│   │   ├── agent_specialization_chart.py
-│   │   └── timeline_chart.py
-│   └── __init__.py      # Makes src a package (can be empty)
+├── think_tank/
+│   ├── src/
+│   │   ├── data_generation/ # Modules for generating CSV data
+│   │   │   ├── policy_and_agents.py
+│   │   │   ├── ops_framework.py
+│   │   │   └── workflows_and_metrics.py
+│   │   ├── plotting/        # Modules for generating charts
+│   │   │   ├── agent_specialization_chart.py
+│   │   │   └── timeline_chart.py
+│   │   └── __init__.py      # Makes src a package (can be empty)
+│   ├── Establishing an AI-Powered Think Tank for Banglade.md # Original doc
+│   └── exported-assets.zip # Original assets
 ├── main.py               # Main script to generate data and plots
 ├── README.md             # You are here
 ├── requirements.txt      # Python dependencies
